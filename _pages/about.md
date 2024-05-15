@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in ECE with a focus on Software Engineering and Systems at UT Austin.
+I'm a PhD student in the Electrical and Computer Engineering department at UT Austin, advised by [August Shi](https://sites.utexas.edu/august/). My research interests include software testing and program analysis.
