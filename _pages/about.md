@@ -13,6 +13,11 @@ I'm a PhD student in the Electrical and Computer Engineering department at UT Au
 
 ### Publications
 
+*Impact of JVM Configurations on Test Runtime*\
+**Abdelrahman Baz**, Milos Gligoric, August Shi\
+International Conference on Software Maintenance and Evolution\
+(ICSME 2024), to appear, Flagstaff, USA, October 2024
+
 *Quantizing Large-Language Models for Predicting Flaky Tests*\
 Shanto Rahman, **Abdelrahman Baz**, Sasa Misailovic, August Shi\
 IEEE International Conference on Software Testing, Verification and Validation\
