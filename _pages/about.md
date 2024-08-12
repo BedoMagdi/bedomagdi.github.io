@@ -13,10 +13,20 @@ I'm a PhD student in the Electrical and Computer Engineering department at UT Au
 
 ### Publications
 
+*Reducing Test Runtime by Transforming Test Fixtures*\
+Chengpeng Li, **Abdelrahman Baz**, August Shi\
+International Conference on Automated Software Engineering\
+(ASE 2024), pages to appear, Sacramento, USA, October 2024
+
+*Prioritizing Tests for Improved Runtime*\
+**Abdelrahman Baz**, Minchao Huang, August Shi\
+International Conference on Automated Software Engineering, New Ideas and Emerging Results\
+(ASE NIER 2024), pages to appear, Sacramento, USA, October 2024
+
 *Impact of JVM Configurations on Test Runtime*\
 **Abdelrahman Baz**, Milos Gligoric, August Shi\
 International Conference on Software Maintenance and Evolution\
-(ICSME 2024), to appear, Flagstaff, USA, October 2024
+(ICSME 2024), pages to appear, Flagstaff, USA, October 2024
 
 *Quantizing Large-Language Models for Predicting Flaky Tests*\
 Shanto Rahman, **Abdelrahman Baz**, Sasa Misailovic, August Shi\
